@@ -42,10 +42,22 @@ function Index() {
         Abrir o PokéWebKit
       </a>
 
+<a
+  href="/sprite-editor"
+    className="mt-4 inline-flex h-12 items-center justify-center rounded-full border border-border px-8 text-sm font-semibold transition-colors hover:bg-muted"
+    >
+      Abrir editor de animações
+      </a>
+      
       <div className="mt-10 w-full max-w-sm rounded-2xl border border-border bg-card p-5">
         <h2 className="text-sm font-semibold">Instalar no Android</h2>
         <ol className="mt-3 space-y-2 text-sm text-muted-foreground list-decimal list-inside">
           <li>Toque em “Abrir o PokéWebKit”.</li>
+
+          <a>
+                Abrir editor de animações
+                </a>
+
           <li>No menu do Chrome (⋮), toque em “Adicionar à tela inicial”.</li>
           <li>Confirme — o app ganha ícone próprio e abre em tela cheia.</li>
         </ol>
