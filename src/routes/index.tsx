@@ -36,7 +36,7 @@ function Index() {
       </p>
 
       <a
-        href="/pokewebkit/"
+        href="/pokewebkit/index.html"
         className="mt-8 inline-flex h-14 items-center justify-center rounded-full bg-primary px-10 text-base font-semibold text-primary-foreground shadow-md transition-colors hover:bg-primary/90"
       >
         Abrir o PokéWebKit

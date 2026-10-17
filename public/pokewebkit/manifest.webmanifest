@@ -3,7 +3,7 @@
   "short_name": "PokéWebKit",
   "description": "Editor de dados de ROMs de Pokémon GBA e NDS",
   "lang": "pt-BR",
-  "start_url": "./",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
